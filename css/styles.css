@@ -42,31 +42,29 @@ h3 {
   padding-top: 100px;
 }
 
-.profile{
+.profile {
   padding-top: 100px;
   text-align: center;
   width: 75%;
-  margin-left: 220px;
-}
-.hello{
-margin-top: 0;
 }
 
-
-
-.cam{
-width: 25%;
-float: left;
-margin-right: 30px;
+.hello {
+  margin-top: 0;
 }
 
-.moto{
-width: 25%;
-float: right;
-margin-left: 30px;
+.cam {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 }
 
-.skill-row{
+.moto {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
   margin: 100px auto 100px auto;
   width: 50%;
   text-align: left;
@@ -85,14 +83,14 @@ margin-left: 30px;
   color: #11999E;
 }
 
-.contact-me{
+.contact-me {
   background-color: #caf7e3;
 }
 
-.bottom-container{
+.bottom-container {
   background-color: #caf7e3;
 }
 
-.copyright{
+.copyright {
   color: grey;
 }
