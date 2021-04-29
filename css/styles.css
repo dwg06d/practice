@@ -44,16 +44,15 @@ h3 {
 
 .profile{
   padding-top: 100px;
+  text-align: center;
+  width: 75%;
+  margin-left: 220px;
 }
 .hello{
 margin-top: 0;
 }
 
-.intro{
-  text-align: center;
-  width: 75%;
-  margin-left: 220px;
-}
+
 
 .cam{
 width: 25%;
