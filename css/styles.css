@@ -45,7 +45,8 @@ h3 {
 .profile {
   padding-top: 100px;
   text-align: center;
-  width: 75%;
+  width: 50%;
+  margin: auto;
 }
 
 .hello {
